@@ -31,7 +31,6 @@ get_header();
                 </div>
             </article>
         </section>
-
 		<?php custom_recent_posts(); ?>
 		<?php } else { ?>
 		<?php
